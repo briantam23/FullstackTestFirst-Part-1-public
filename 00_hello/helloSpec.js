@@ -5,6 +5,6 @@ describe("Hello", function() {
   });
 
   it("says hello to someone", function() {
-    expect(hello("Fred")).toEqual("Hello, Fred!");
+    expect(hello("Brian")).toEqual("Hello, Brian!");
   });
 });
